@@ -1,0 +1,36 @@
+
+.glxavor{
+    width: 600px;
+    height: 700px;
+    background-color: aqua;
+    margin-left: 500px;
+    border: solid 8px black;
+    border-radius: 70px;
+}
+.login{
+    width: 200px;
+    height: 70px;
+    background-color: darkgreen;
+    border: solid 3px black;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+h1{
+    font-size: 80px;
+    margin-left: 190px;
+}
+.text{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 50px;
+}
+.parol{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 50px;  
+}
+.login>button{
+    margin-left: 66px;
+    margin-top: 20px;
+    background-color: darkgreen;
+}
